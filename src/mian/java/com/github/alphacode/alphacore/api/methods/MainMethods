@@ -1,0 +1,17 @@
+package com.github.alphacode.alphacore.api.methods;
+
+
+/**
+ * @author AlphaCore:JasonAlpha
+ *
+ */
+
+public class MainMethods {
+    public void ExampleMethod(){
+
+//WIP
+      }
+
+
+      }
+
