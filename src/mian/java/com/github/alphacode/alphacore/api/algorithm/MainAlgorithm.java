@@ -7,6 +7,11 @@ import java.util.Scanner;
  * 本部分功能未完成
  */
 public class MainAlgorithm {
+     /**高精度加法运算
+     * 
+     * @param x
+     * @param <BidDecimal>
+     */
     public <BidDecimal> void HighAccuracy(double x) {
         final double DEF_DIV_SCALE = x;
         Scanner scanner = new Scanner(System.in);
