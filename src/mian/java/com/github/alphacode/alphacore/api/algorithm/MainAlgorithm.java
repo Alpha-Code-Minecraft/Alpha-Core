@@ -12,7 +12,7 @@ public class MainAlgorithm {
      * @param x
      * @param <BidDecimal>
      */
-    public <BidDecimal> void HighAccuracy(double x) {
+    public <BidDecimal> void HighAccuracyAdd(double x) {
         final double DEF_DIV_SCALE = x;
         Scanner scanner = new Scanner(System.in);
         BigDecimal a = (BigDecimal) scanner.nextBigDecimal();
